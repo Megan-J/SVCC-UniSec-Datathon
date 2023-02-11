@@ -1,8 +1,8 @@
 # SVCC-UniSec-Datathon
 
-Author: Megan Ju and Averi Tanlimco
-Originally Created: October 2021
-Last Modified: November 2021
+* Authors: Megan Ju and Averi Tanlimco
+* Originally Created: October 2021
+* Last Modified: November 2021
 
 #
 
